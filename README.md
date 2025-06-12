@@ -160,6 +160,8 @@ This Power BI dashboard is interactive and designed to help users explore **sale
 ## 📎 Project Preview
 
 > ![Dashboard](https://github.com/user-attachments/assets/f8a0811d-f8cd-47d6-b1fd-c5fe6bc7aa10)
+>
+> Author: Theresa I
 
 * 
 
